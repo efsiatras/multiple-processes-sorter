@@ -5,7 +5,7 @@ Received statistics about turnaround time of processes and signals are printed a
 
 The main goal of this program implementation was to practice with **fork**, **exec**, **piping** and **sigaction**.
 
-## Process tree
+## Process Tree
 ![coordinator, coaches and sorters processes](https://siatras.dev/img/process-tree-sort.jpg)
 
 ## Compilation
