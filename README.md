@@ -1,9 +1,9 @@
 # Sort with multiple processes
 A program sorting a binary file of records in various ways using multiple processes.
 
-Received statistics about turnaround time of processes and signals are printed at the end of the program execution.
+The **main goal** of this program implementation was to practice with **fork**, **exec**, **piping** and **sigaction**.
 
-The main goal of this program implementation was to practice with **fork**, **exec**, **piping** and **sigaction**.
+Received statistics about turnaround time of processes and signals are printed at the end of the program execution.
 
 ## Process Tree
 ![coordinator, coaches and sorters processes](https://siatras.dev/img/process-tree-sort.jpg)
