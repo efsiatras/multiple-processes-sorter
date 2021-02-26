@@ -6,6 +6,7 @@ The **main goal** of this program implementation was to practice with **fork**, 
 Received statistics about turnaround time of processes and signals are printed at the end of the program execution.
 
 ## Process Tree
+Here's how the process tree looks like when making full use of the executables:
 ![coordinator, coaches and sorters processes](https://siatras.dev/img/process-tree-sort.jpg)
 
 ## Compilation
