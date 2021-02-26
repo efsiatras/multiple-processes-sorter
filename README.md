@@ -1,6 +1,5 @@
 # Sort with multiple processes
-A program sorting a binary file of records in various ways using multiple processes.
-
+A program sorting a binary file of records in various ways using multiple processes.  
 The **main goal** of this program implementation was to practice with **fork**, **exec**, **piping** and **sigaction**.
 
 Received statistics about turnaround time of processes and signals are printed at the end of the program execution.
