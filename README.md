@@ -1,4 +1,4 @@
-# Sort with multiple processes
+# Multiple Processes Sorter
 A program sorting a binary file of records in various ways using multiple processes.  
 The **main goal** of this program implementation was to practice with **fork**, **exec**, **piping** and **sigaction**.
 
